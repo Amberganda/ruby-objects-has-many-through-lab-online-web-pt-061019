@@ -9,5 +9,7 @@ class Doctor
         @@all << self
     end
 
+    def appointments(name)
+        Appointment.
 
 end
