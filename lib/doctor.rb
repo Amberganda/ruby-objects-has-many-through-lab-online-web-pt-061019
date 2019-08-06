@@ -10,6 +10,8 @@ class Doctor
     end
 
     def appointments(name)
-        Appointment.
+        # Appointment
 
+    end
+    
 end
