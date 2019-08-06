@@ -7,6 +7,6 @@ class Artist
         @@all << self
     end
     
-    
+
 
 end
