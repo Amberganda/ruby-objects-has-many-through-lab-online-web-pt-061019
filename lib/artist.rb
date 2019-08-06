@@ -24,7 +24,7 @@ class Artist
     end
 
     def genres
-        Song.all.map do |genre|
+        Song.all.map do |song|
             song.genre
         end.uniq
 
