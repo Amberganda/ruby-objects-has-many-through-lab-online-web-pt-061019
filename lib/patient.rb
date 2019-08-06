@@ -1,4 +1,4 @@
-class Patiend
+class Patient
 
 
 end
